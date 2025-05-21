@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "c3326e142a612abc",
+    "type": "split",
+    "children": [
+      {
+        "id": "20c66b8bc794feb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0dc709f17b87ca6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Бюро Кроссовок.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Бюро Кроссовок"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a855750e05394322",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3068732fc9c511c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64c2d5c18d6685e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1f4027d9b084c327",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b6e6db7b64777ad5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "76911cd1ff3b3bbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbc14302eb800b44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31033c97ac1309eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Бюро Кроссовок.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Бюро Кроссовок"
+            }
+          },
+          {
+            "id": "84b6038896eb3084",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Бюро Кроссовок.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Бюро Кроссовок"
+            }
+          },
+          {
+            "id": "5e53ade47defc29e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9d0696bd1dcc7cec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Бюро Кроссовок.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Бюро Кроссовок"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "64c2d5c18d6685e5",
+  "lastOpenFiles": [
+    "d.zip",
+    "images/Pasted image 20250521162439.png",
+    "Pasted image 20250521162439.png",
+    "Бюро Кроссовок.md",
+    "images/Screenshot from 2025-05-21 14-34-13.png",
+    "images",
+    "Untitled/Untitled",
+    "Untitled.md",
+    "Screenshot from 2025-05-21 14-34-13.png",
+    "Untitled"
+  ]
+}
