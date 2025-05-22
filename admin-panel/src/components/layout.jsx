@@ -6,7 +6,7 @@ export default function Layout({ children }) {
       <Sidebar />
       <div className="page-wrapper">
         <div className="page-body">
-          <div className="container-xl">{children}</div>
+          <div>{children}</div>
         </div>
       </div>
     </div>
