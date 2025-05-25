@@ -14,9 +14,6 @@ export default function Sidebar() {
                 <Link to="/stock" className="nav-link">📦 Остатки товара</Link>
               </li>
               <li className="nav-item">
-                <Link to="/add" className="nav-link">➕ Добавить товар</Link>
-              </li>
-              <li className="nav-item">
                 <Link to="/sell" className="nav-link">💸 Продать оффлайн</Link>
               </li>
             </ul>

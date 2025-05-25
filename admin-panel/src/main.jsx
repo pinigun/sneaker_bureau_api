@@ -6,7 +6,6 @@ import Layout from './components/layout.jsx'
 import Sidebar from './components/sidebar.jsx';
 import Dashboard from './pages/dashboard.jsx';
 import Stock from './pages/stock.jsx';
-import Add from './pages/add.jsx';
 import Sell from './pages/sell-offline.jsx';
 import './index.css'
 import App from './App.jsx'
@@ -17,7 +16,6 @@ createRoot(document.getElementById('root')).render(
       <Routes>
         <Route path="/" element={<Dashboard />} />
         <Route path="/stock" element={<Stock />} />
-        <Route path="/add" element={<Add />} />
         <Route path="/sell" element={<Sell />} />
       </Routes>
     </Layout>
