@@ -7,7 +7,7 @@ import {
 function SalesTypeChart({ data, total }) {
     return (
       <div style={{ width: "100%", marginBottom: "1rem" }}>
-        <div style={{ marginBottom: "0.3rem", fontWeight: "bold", fontSize: "1rem" }}>
+        <div style={{ marginBottom: "0.3rem", fontWeight: "bold", fontSize: "3rem" }}>
           Общая выручка: {new Intl.NumberFormat('ru-RU', { style: 'currency', currency: 'RUB' }).format(total)}
         </div>
         <div style={{ height: 200 }}>
@@ -75,7 +75,6 @@ export default function Dashboard() {
     const products = generateProducts();
     setSoldProducts(products);
 
-    // Группируем выручку по типам
     const revenueByType = {};
     for (const product of products) {
       if (!revenueByType[product.type]) {
@@ -91,7 +90,6 @@ export default function Dashboard() {
 
     setChartData(data);
 
-    // Вычисляем общую выручку
     const total = data.reduce((sum, item) => sum + item.amount, 0);
     setTotalRevenue(total);
 
