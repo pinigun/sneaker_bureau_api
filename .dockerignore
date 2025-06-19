@@ -1,9 +1,10 @@
 .obsidian
+Бюро Кроссовок-git.md
 Бюро Кроссовок.md
 format_md_for_git.py
 *.drawio
 trash.py
-static/
+images/
 docker-compose.yml
 *.ini
 # Byte-compiled / optimized / DLL files
